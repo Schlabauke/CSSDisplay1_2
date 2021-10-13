@@ -1,0 +1,23 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    background: url("https://images.unsplash.com/photo-1575683990472-562331e63ae6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80") center/cover no-repeat;
+}
+ul {
+    background:black;
+    opacity: 0.7;
+    text-align: right; 
+}
+ul li {
+    display: inline-block;
+    margin:3vh auto;
+    padding: 0.5% 1vw;
+}
+ul li a {
+    text-decoration: none;
+    color:snow;
+}
